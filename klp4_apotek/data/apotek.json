@@ -1,0 +1,1030 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.408759, 0.479234]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "nama_apotek": "Apotek Keluarga 15",
+            "alamat": "Jl. Lobak No.105c, Delima",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077311\/GIS\/Apotek_Keluarga_15_ro15w4.jpg",
+            "Y": 0.479234,
+            "X": 101.408759
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43537, 0.528663]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "nama_apotek": "Apotek Afiza",
+            "alamat": "Jl. Cempaka No.99, Harjosari",
+            "kecamatan": "Sukajadi",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077290\/GIS\/Apotek_Afiza_m2qro6.jpg",
+            "Y": 0.528663,
+            "X": 101.43537
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.484067, 0.51885]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "nama_apotek": "Apotek Alita",
+            "alamat": "Jl. Budisari perum budi sari cluster No.8, Rejosari",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077294\/GIS\/Apotek_Alita_tcowqk.jpg",
+            "Y": 0.51885,
+            "X": 101.484067
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.435319, 0.443779]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "nama_apotek": "Apotek Alita 2",
+            "alamat": "Jl. Kartama, Maharatu",
+            "kecamatan": "Marpoyan Damai",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077291\/GIS\/Apotek_Alita_2_s40hbf.jpg",
+            "Y": 0.443779,
+            "X": 101.435319
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.385777, 0.445669]
+        },
+        "properties": {
+            "OBJECTID": 5,
+            "No_": 5,
+            "nama_apotek": "Apotek Al-Izzah",
+            "alamat": "Jl. Suka Karya, Tuah Karya",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077291\/GIS\/Apotek_Al_Izzah_nhlueq.jpg",
+            "Y": 0.445669,
+            "X": 101.385777
+        }
+    }, {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.464853, 0.457994]
+        },
+        "properties": {
+            "OBJECTID": 6,
+            "No_": 6,
+            "nama_apotek": "Apotek Alfa",
+            "alamat": "Jl. Tengku Bey 3-60, Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077293\/GIS\/Apotek_Alfa_y4cpon.jpg",
+            "Y": 0.457994,
+            "X": 101.464853
+        }
+    }, {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.448463, 0.566218]
+        },
+        "properties": {
+            "OBJECTID": 7,
+            "No_": 7,
+            "nama_apotek": "Apotek Andalan Jaya",
+            "alamat": "Jl. Sembilang 115, Limbungan",
+            "kecamatan": "Rumbai Pesisir",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077294\/GIS\/Apotek_Andalan_Jaya_wwjkhy.jpg",
+            "Y": 0.566218,
+            "X": 101.448463
+        }
+    }, {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.426268, 0.569276]
+        },
+        "properties": {
+            "OBJECTID": 8,
+            "No_": 8,
+            "nama_apotek": "Apotek Andalan Makmur",
+            "alamat": "Jl. Umban Sari 27-33, Umban Sari",
+            "kecamatan": "Rumbai Pesisir",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670079123\/Apotek_Andalan_Makmur_zex6kj.png",
+            "Y": 0.569276,
+            "X": 101.426268
+        }
+    }, {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.419425, 0.475511]
+        },
+        "properties": {
+            "OBJECTID": 9,
+            "No_": 9,
+            "nama_apotek": "Apotek Angkasa",
+            "alamat": "JL. Soekarno Hatta, Blok C 1 No. 12Ab, Komplek Sentral Bisnis, Sidomulyo Tim",
+            "kecamatan": "Marpoyan Damai",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077295\/GIS\/Apotek_Angkasa_xcjnez.jpg",
+            "Y": 0.475511,
+            "X": 101.419425
+        }
+    }, {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.390031, 0.449005]
+        },
+        "properties": {
+            "OBJECTID": 10,
+            "No_": 10,
+            "nama_apotek": "Apotek Angkasa Jaya",
+            "alamat": "Jl. Cipta Karya No.8, Sialangmunggu",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077290\/GIS\/Angkasa_Jaya_lagmr2.jpg",
+            "Y": 0.449005,
+            "X": 101.390031
+        }
+    }, {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.443094, 0.525898]
+        },
+        "properties": {
+            "OBJECTID": 11,
+            "No_": 11,
+            "nama_apotek": "Apotek Asean",
+            "alamat": "Gg. Nikmat, Kota Baru",
+            "kecamatan": "Pekanbaru",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077295\/GIS\/Apotek_Asean_puospi.jpg",
+            "Y": 0.525898,
+            "X": 101.443094
+        }
+    }, {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.434715, 0.556962]
+        },
+        "properties": {
+            "OBJECTID": 12,
+            "No_": 12,
+            "nama_apotek": "Apotek Al Fakih",
+            "alamat": "Jl. Yos Sudarso Kelurahan No.124, Meranti Pandak",
+            "kecamatan": "Rumbai Pesisir",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077292\/GIS\/Apotek_Al_Fakih_fpoeye.jpg",
+            "Y": 0.556962,
+            "X": 101.434715
+        }
+    }, {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.403636, 0.465071]
+        },
+        "properties": {
+            "OBJECTID": 13,
+            "No_": 13,
+            "nama_apotek": "Apotek Andalas",
+            "alamat": "Jl. Delima 16-9, Delima",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077297\/GIS\/Apotek_Andalas_sfd4qq.jpg",
+            "Y": 0.465071,
+            "X": 101.403636
+        }
+    }, {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.463845, 0.480982]
+        },
+        "properties": {
+            "OBJECTID": 14,
+            "No_": 14,
+            "nama_apotek": "Apotek Barokah",
+            "alamat": "Jl. Datuk Setia Maharaja, Tengkerang Sel",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077298\/GIS\/Apotek_Barokah_tcum7y.jpg",
+            "Y": 0.480982,
+            "X": 101.463845
+        }
+    }, {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.440136, 0.528607]
+        },
+        "properties": {
+            "OBJECTID": 15,
+            "No_": 15,
+            "nama_apotek": "Apotek Cempaka",
+            "alamat": "Jl. Cempaka No.64, Sukajadi",
+            "kecamatan": "Sukajadi",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077299\/GIS\/Apotek_Cempaka_lsar6o.jpg",
+            "Y": 0.528607,
+            "X": 101.440136
+        }
+    }, {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.458353, 0.517136]
+        },
+        "properties": {
+            "OBJECTID": 16,
+            "No_": 16,
+            "nama_apotek": "Apotek Gobah",
+            "alamat": "Jl. Beringin 12-20, Suka Maju",
+            "kecamatan": "Sail",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077304\/GIS\/Apotek_Gobah_y68ltm.jpg",
+            "Y": 0.517136,
+            "X": 101.458353
+        }
+    }, {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.453719, 0.52501]
+        },
+        "properties": {
+            "OBJECTID": 17,
+            "No_": 17,
+            "nama_apotek": "Apotek Hangtuah",
+            "alamat": "Jl. Hangtuah Ujung No.2, Rintis",
+            "kecamatan": "Sail",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077304\/GIS\/Apotek_Hangtuah_jthseo.jpg",
+            "Y": 0.52501,
+            "X": 101.453719
+        }
+    }, {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.443203, 0.560642]
+        },
+        "properties": {
+            "OBJECTID": 18,
+            "No_": 18,
+            "nama_apotek": "Apotek Indonesia Sehat",
+            "alamat": "Jl. Hangtuah Ujung No.2, Rintis",
+            "kecamatan": "Sail",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077307\/GIS\/Apotek_Indonesia_Sehat_eetr2m.jpg",
+            "Y": 0.560642,
+            "X": 101.443203
+        }
+    }, {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.381944, 0.464042]
+        },
+        "properties": {
+            "OBJECTID": 19,
+            "No_": 19,
+            "nama_apotek": "Apotek Kasuari Farma",
+            "alamat": "Tuah Karya",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077308\/GIS\/Apotek_Kasuari_Farma_cz3ncu.jpg",
+            "Y": 0.464042,
+            "X": 101.381944
+        }
+    }, {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.448905, 0.570371]
+        },
+        "properties": {
+            "OBJECTID": 20,
+            "No_": 20,
+            "nama_apotek": "Apotek Keluarga Rumbai",
+            "alamat": "Lembah Sari",
+            "kecamatan": "Rumbai Pesisir",
+            "foto": "",
+            "Y": 0.570371,
+            "X": 101.448905
+        }
+    }, {
+        "type": "Feature",
+        "id": 21,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.453978, 0.533805]
+        },
+        "properties": {
+            "OBJECTID": 21,
+            "No_": 21,
+            "nama_apotek": "Apotek Permai",
+            "alamat": "Jl. St. Syarif 117, Rintis",
+            "kecamatan": "Lima Puluh",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077312\/GIS\/Apotek_Permai_x7nbim.jpg",
+            "Y": 0.533805,
+            "X": 101.453978
+        }
+    }, {
+        "type": "Feature",
+        "id": 22,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.381707, 0.464063]
+        },
+        "properties": {
+            "OBJECTID": 22,
+            "No_": 22,
+            "nama_apotek": "Apotek Rahman",
+            "alamat": "Jl. HR. Soebrantas No.64, Tuah Karya",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077313\/GIS\/Apotek_Rahman_korvjv.jpg",
+            "Y": 0.464063,
+            "X": 101.381707
+        }
+    }, {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.44269, 0.529706]
+        },
+        "properties": {
+            "OBJECTID": 23,
+            "No_": 23,
+            "nama_apotek": "Apotik Kartika",
+            "alamat": "Jl. Jend. Ahmad Yani 58-30, Kota Baru",
+            "kecamatan": "Senapelan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077308\/GIS\/Apotek_Kartika_qkxwlu.jpg",
+            "Y": 0.529706,
+            "X": 101.44269
+        }
+    }, {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.449127, 0.535781]
+        },
+        "properties": {
+            "OBJECTID": 24,
+            "No_": 24,
+            "nama_apotek": "Apotik Setiabudi",
+            "alamat": "Jl. Dr. Setia Budhi No.42, Rintis",
+            "kecamatan": "Lima Puluh",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077313\/GIS\/Apotek_Sedia_Budi_aarxtj.jpg",
+            "Y": 0.535781,
+            "X": 101.449127
+        }
+    }, {
+        "type": "Feature",
+        "id": 25,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.442375, 0.564179]
+        },
+        "properties": {
+            "OBJECTID": 25,
+            "No_": 25,
+            "nama_apotek": "Apotik Ss Paramida",
+            "alamat": "Jl. Gurami Raya 2, Limbungan Baru",
+            "kecamatan": "Rumbai Pesisir",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077314\/GIS\/Apotek_Ss._Piramida_dccvmy.jpg",
+            "Y": 0.564179,
+            "X": 101.442375
+        }
+    }, {
+        "type": "Feature",
+        "id": 26,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.444941, 0.536068]
+        },
+        "properties": {
+            "OBJECTID": 26,
+            "No_": 26,
+            "nama_apotek": "Dunia Sehat Apotik",
+            "alamat": "Kampung Dalam",
+            "kecamatan": "Senapelan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077319\/GIS\/Dunia_Apotek_Sehat_fgisa3.jpg",
+            "Y": 0.536068,
+            "X": 101.444941
+        }
+    }, {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.491089, 0.487934]
+        },
+        "properties": {
+            "OBJECTID": 27,
+            "No_": 27,
+            "nama_apotek": "Apotek Aisyah 2",
+            "alamat": "Jl. Bukit Barisan 1-87, Tengkerang Tim",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077290\/GIS\/Apotek_Aisyah_2_srldq4.jpg",
+            "Y": 0.487934,
+            "X": 101.491089
+        }
+    }, {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.451253, 0.447377]
+        },
+        "properties": {
+            "OBJECTID": 28,
+            "No_": 28,
+            "nama_apotek": "Apotek Asean 5",
+            "alamat": "Jl. Kaharuddin Nasution No.5, Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077295\/GIS\/Apotek_Asean_5_kizboo.jpg",
+            "Y": 0.447377,
+            "X": 101.451253
+        }
+    }, {
+        "type": "Feature",
+        "id": 29,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.462263, 0.459357]
+        },
+        "properties": {
+            "OBJECTID": 29,
+            "No_": 29,
+            "nama_apotek": "Apotek Asri",
+            "alamat": "Komplek Bumi Sejahtera Blok A2 No. 5 Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077298\/GIS\/Apotek_Asri_kuwhsm.jpg",
+            "Y": 0.459357,
+            "X": 101.462263
+        }
+    }, {
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.426845, 0.523526]
+        },
+        "properties": {
+            "OBJECTID": 30,
+            "No_": 30,
+            "nama_apotek": "Apotek Dian Farma",
+            "alamat": "Jl. Jendral 16-8, Labuh Baru Tim",
+            "kecamatan": "Payung Sekaki",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077302\/GIS\/Apotek_Dian_Farma_nqowpo.jpg",
+            "Y": 0.523526,
+            "X": 101.426845
+        }
+    }, {
+        "type": "Feature",
+        "id": 31,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.419279, 0.54093]
+        },
+        "properties": {
+            "OBJECTID": 31,
+            "No_": 31,
+            "nama_apotek": "Apotek Energi",
+            "alamat": "Jl. Pemuda No.79, Tampan",
+            "kecamatan": "Payung Sekaki",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077302\/GIS\/Apotek_Energi_bsp0yo.jpg",
+            "Y": 0.54093,
+            "X": 101.419279
+        }
+    }, {
+        "type": "Feature",
+        "id": 32,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.50185, 0.496072]
+        },
+        "properties": {
+            "OBJECTID": 32,
+            "No_": 32,
+            "nama_apotek": "Apotek Harapan Raya",
+            "alamat": "Jl. Lintas Sumatra, Sail",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077305\/GIS\/Apotek_Harapan_Raya_pnbrwe.jpg",
+            "Y": 0.496072,
+            "X": 101.50185
+        }
+    }, {
+        "type": "Feature",
+        "id": 33,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.511539, 0.477777]
+        },
+        "properties": {
+            "OBJECTID": 33,
+            "No_": 33,
+            "nama_apotek": "Apotek Iftita",
+            "alamat": "Jl. Sepakat 144, Kulim",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077306\/GIS\/Apotek_Iftita_cmqsm7.jpg",
+            "Y": 0.477777,
+            "X": 101.511539
+        }
+    }, {
+        "type": "Feature",
+        "id": 34,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.413154, 0.463886]
+        },
+        "properties": {
+            "OBJECTID": 34,
+            "No_": 34,
+            "nama_apotek": "Apotek Keluargaa",
+            "alamat": "Jl. HR. Soebrantas, Delima",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670079374\/Apotek_Keluarga_Delima_bvgx5z.png",
+            "Y": 0.463886,
+            "X": 101.413154
+        }
+    }, {
+        "type": "Feature",
+        "id": 35,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.464053, 0.499391]
+        },
+        "properties": {
+            "OBJECTID": 35,
+            "No_": 35,
+            "nama_apotek": "Apotek Keluarga 11 Pekanbaru",
+            "alamat": "Jl. Lintas Sumatra 200, Tengkerang Sel",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077310\/GIS\/Apotek_Keluarga_11_qxnjij.jpg",
+            "Y": 0.499391,
+            "X": 101.464053
+        }
+    }, {
+        "type": "Feature",
+        "id": 36,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.382657, 0.464177]
+        },
+        "properties": {
+            "OBJECTID": 36,
+            "No_": 36,
+            "nama_apotek": "Apotek Keluarga 9 Pekanbaru",
+            "alamat": "Jl. HR. Soebrantas 77-288, Tuah Karya",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077309\/GIS\/Apotek_Keluarga_9_tenkzy.jpg",
+            "Y": 0.464177,
+            "X": 101.382657
+        }
+    }, {
+        "type": "Feature",
+        "id": 37,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.410454, 0.463756]
+        },
+        "properties": {
+            "OBJECTID": 37,
+            "No_": 37,
+            "nama_apotek": "Apotek Kimia Farma",
+            "alamat": "Jl. HR. Soebrantas 61-38, Sidomulyo Bar",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077310\/GIS\/Apotek_Kimia_Farma_y69y5u.jpg",
+            "Y": 0.463756,
+            "X": 101.410454
+        }
+    }, {
+        "type": "Feature",
+        "id": 38,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.452773, 0.455442]
+        },
+        "properties": {
+            "OBJECTID": 38,
+            "No_": 38,
+            "nama_apotek": "Apotek Kimia Farma 2",
+            "alamat": "Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077310\/GIS\/Apotek_Kimia_Farma_2_tmkfyw.jpg",
+            "Y": 0.455442,
+            "X": 101.452773
+        }
+    }, {
+        "type": "Feature",
+        "id": 39,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.408186, 0.513088]
+        },
+        "properties": {
+            "OBJECTID": 39,
+            "No_": 39,
+            "nama_apotek": "Apotek Kurniawan Farma",
+            "alamat": "Jl. Rokan Jaya, Labuh Baru Bar",
+            "kecamatan": "Payung Sekaki",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077311\/GIS\/Apotek_Kurniawan_Farma_f0lxtp.jpg",
+            "Y": 0.513088,
+            "X": 101.408186
+        }
+    }, {
+        "type": "Feature",
+        "id": 40,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.449103, 0.442542]
+        },
+        "properties": {
+            "OBJECTID": 40,
+            "No_": 40,
+            "nama_apotek": "Apotek Mandiri Plus",
+            "alamat": "Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077311\/GIS\/Apotek_Mandiri_Plus_ewcucw.jpg",
+            "Y": 0.442542,
+            "X": 101.449103
+        }
+    }, {
+        "type": "Feature",
+        "id": 41,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.418394, 0.46136]
+        },
+        "properties": {
+            "OBJECTID": 41,
+            "No_": 41,
+            "nama_apotek": "Apotek Mandiri Prima",
+            "alamat": "Sidomulyo Timur",
+            "kecamatan": "Marpoyan Damai",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077312\/GIS\/Apotek_Mandiri_Prima_ufnzil.jpg",
+            "Y": 0.46136,
+            "X": 101.418394
+        }
+    }, {
+        "type": "Feature",
+        "id": 42,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.454758, 0.46453]
+        },
+        "properties": {
+            "OBJECTID": 42,
+            "No_": 42,
+            "nama_apotek": "Apotek Mandiri Utama",
+            "alamat": "Jl. Tengku Bey, Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077312\/GIS\/Apotek_Mandiri_Utama_kmduun.jpg",
+            "Y": 0.46453,
+            "X": 101.454758
+        }
+    }, {
+        "type": "Feature",
+        "id": 43,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.439597, 0.443596]
+        },
+        "properties": {
+            "OBJECTID": 43,
+            "No_": 43,
+            "nama_apotek": "Apotek Syahdu",
+            "alamat": "Jl. Kartama No.23, Maharatu",
+            "kecamatan": "Marpoyan Damai",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077314\/GIS\/Apotek_Syahdu_cfhxul.jpg",
+            "Y": 0.443596,
+            "X": 101.439597
+        }
+    }, {
+        "type": "Feature",
+        "id": 44,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.489409, 0.49517]
+        },
+        "properties": {
+            "OBJECTID": 44,
+            "No_": 44,
+            "nama_apotek": "Apotek Taman Sari",
+            "alamat": "Jl. Lintas Sumatra 57-389, Tengkerang Tim",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077316\/GIS\/Apotek_Taman_Sari_odacax.jpg",
+            "Y": 0.49517,
+            "X": 101.489409
+        }
+    }, {
+        "type": "Feature",
+        "id": 45,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.421153, 0.517142]
+        },
+        "properties": {
+            "OBJECTID": 45,
+            "No_": 45,
+            "nama_apotek": "Apotek Trans Pekanbaru",
+            "alamat": "Jl. Durian 82, Labuh Baru Tim",
+            "kecamatan": "Payung Sekaki",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077315\/GIS\/Apotek_Trans_pn90xk.jpg",
+            "Y": 0.517142,
+            "X": 101.421153
+        }
+    }, {
+        "type": "Feature",
+        "id": 46,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.481765, 0.520812]
+        },
+        "properties": {
+            "OBJECTID": 46,
+            "No_": 46,
+            "nama_apotek": "Kulim Farma",
+            "alamat": "Rejosari",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077310\/GIS\/Apotek_Kulim_Farma_w39mbc.jpg",
+            "Y": 0.520812,
+            "X": 101.481765
+        }
+    }, {
+        "type": "Feature",
+        "id": 47,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.41867, 0.541088]
+        },
+        "properties": {
+            "OBJECTID": 47,
+            "No_": 47,
+            "nama_apotek": "Azima Farma",
+            "alamat": "Jl. Pemuda, Tampan",
+            "kecamatan": "Payung Sekaki",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077302\/GIS\/Apotek_Azima_Farma_c4plnj.png",
+            "Y": 0.541088,
+            "X": 101.41867
+        }
+    }, {
+        "type": "Feature",
+        "id": 48,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.416288, 0.513786]
+        },
+        "properties": {
+            "OBJECTID": 48,
+            "No_": 48,
+            "nama_apotek": "Apotek Gratia Farma",
+            "alamat": "Labuh Baru Barat",
+            "kecamatan": "Payung Sekaki",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077307\/GIS\/Apotek_Gratia_Farmasi_pgxnwy.png",
+             "Y": 0.513786,
+            "X": 101.416288
+        }
+    }, {
+        "type": "Feature",
+        "id": 49,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.409778, 0.517015]
+        },
+        "properties": {
+            "OBJECTID": 49,
+            "No_": 49,
+            "nama_apotek": "Apotek Dharma Bakti 94",
+            "alamat": "Jl. Darma Bakti No.94, Labuh Baru Bar",
+            "kecamatan": "Payung Sekaki",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077309\/GIS\/Apotek_Dharma_Bakti_94_jgj7cc.png",
+            "Y": 0.517015,
+            "X": 101.409778
+        }
+    }, {
+        "type": "Feature",
+        "id": 50,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.457325, 0.443303]
+        },
+        "properties": {
+            "OBJECTID": 50,
+            "No_": 50,
+            "nama_apotek": "Apotek Azhea Farma",
+            "alamat": "Jl. Karya I, Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670079453\/Screen_Shot_2022-12-03_at_21.57.15_axplow.png",
+            "Y": 0.443303,
+            "X": 101.457325
+        }
+    }, {
+        "type": "Feature",
+        "id": 51,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.454426, 0.468676]
+        },
+        "properties": {
+            "OBJECTID": 51,
+            "No_": 51,
+            "nama_apotek": "Apotek Simpang Tiga",
+            "alamat": "Jl. Kh. Nasution Pekan Baru, Simpang Tiga",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077317\/GIS\/Apotek_Simpang_Tiga_xyhoel.png",
+            "Y": 0.468676,
+            "X": 101.454426
+        }
+    }, {
+        "type": "Feature",
+        "id": 52,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.458268, 0.463547]
+        },
+        "properties": {
+            "OBJECTID": 52,
+            "No_": 52,
+            "nama_apotek": "Apotik Bumel",
+            "alamat": "JL Tengku Bey, No. 21, Simpang 3",
+            "kecamatan": "Bukit Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077302\/GIS\/Apotek_Bumel_szx5sq.png",
+            "Y": 0.463547,
+            "X": 101.458268
+        }
+    }, {
+        "type": "Feature",
+        "id": 53,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.431639, 0.535063]
+        },
+        "properties": {
+            "OBJECTID": 53,
+            "No_": 53,
+            "nama_apotek": "Sanitas Farma",
+            "alamat": "Jl. Riau No.129, Kp. Baru",
+            "kecamatan": "Senapelan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077320\/GIS\/Apotek_Sanitas_Farma_qddckw.png",
+            "Y": 0.535063,
+            "X": 101.431639
+        }
+    }, {
+        "type": "Feature",
+        "id": 54,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.510217, 0.501031]
+        },
+        "properties": {
+            "OBJECTID": 54,
+            "No_": 54,
+            "nama_apotek": "Apotek Bertuah Hangtuah",
+            "alamat": "Jl. Lintas Sumatra, Sail",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077300\/GIS\/Apotek_Bertuah_hxo6bp.png",
+            "Y": 0.501031,
+            "X": 101.510217
+        }
+    }, {
+        "type": "Feature",
+        "id": 55,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.520259, 0.484135]
+        },
+        "properties": {
+            "OBJECTID": 55,
+            "No_": 55,
+            "nama_apotek": "Apotek Cahaya Farma",
+            "alamat": "Jl. Lintas Sumatra No.258, Sail",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077309\/GIS\/Apotek_Cahaya_Farma_tasgvt.png",
+            "Y": 0.484135,
+            "X": 101.520259
+        }
+    }, {
+        "type": "Feature",
+        "id": 56,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.505388, 0.506064]
+        },
+        "properties": {
+            "OBJECTID": 56,
+            "No_": 56,
+            "nama_apotek": "Apotek Rcty",
+            "alamat": "Jalan Hangtuah Ujung, Kelurahan No.151A, Sail",
+            "kecamatan": "Tenayan Raya",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077317\/GIS\/Apotek_Rcty_oqotde.png",
+            "Y": 0.506064,
+            "X": 101.505388
+        }
+    }, {
+        "type": "Feature",
+        "id": 57,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.418078, 0.454589]
+        },
+        "properties": {
+            "OBJECTID": 57,
+            "No_": 57,
+            "nama_apotek": "Apotek Yurikha Farma",
+            "alamat": "Jl. Soekarno - Hatta, Labuh Baru Bar",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077320\/GIS\/Apotek_Yurikha_Farma_ucsg24.png",
+            "Y": 0.454589,
+            "X": 101.418078
+        }
+    }, {
+        "type": "Feature",
+        "id": 58,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.364949, 0.480562]
+        },
+        "properties": {
+            "OBJECTID": 58,
+            "No_": 58,
+            "nama_apotek": "Kimia Farma Apotek 653",
+            "alamat": "Jl. Lintas Petapahan - Garuda Sakti No.89a, Simpang Baru",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670079529\/Kimia_Farma_Apotek_653_fkbdaw.png",
+            "Y": 0.480562,
+            "X": 101.364949
+        }
+    }, {
+        "type": "Feature",
+        "id": 59,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.40604, 0.475402]
+        },
+        "properties": {
+            "OBJECTID": 59,
+            "No_": 59,
+            "nama_apotek": "Apotek Mama Pekanbaru",
+            "alamat": "Delima",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670077318\/GIS\/Apotek_Mama_q3yyot.png",
+            "Y": 0.475402,
+            "X": 101.40604
+        }
+    }, {
+        "type": "Feature",
+        "id": 60,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.405954, 0.464212]
+        },
+        "properties": {
+            "OBJECTID": 60,
+            "No_": 60,
+            "nama_apotek": "Apotek Kampar Medika",
+            "alamat": "Delima",
+            "kecamatan": "Tampan",
+            "foto": "https:\/\/res.cloudinary.com\/dmcas6fmt\/image\/upload\/v1670079261\/Screen_Shot_2022-12-03_at_21.54.04_khd0jx.png",
+            "Y": 0.464212,
+            "X": 101.405954
+        }
+    }]
+}
